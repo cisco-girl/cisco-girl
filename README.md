@@ -33,15 +33,11 @@
 
 ## Accomplishments
 
-<img src="https://coursera.org/share/32b0bc2837770b6bf5b826d3ae8d3e59" width=512 alt="Coursera - Deep Learning Specialisation Certificate">
-<source srcset="https://coursera.org/share/32b0bc2837770b6bf5b826d3ae8d3e59">
+<img src="https://www.credly.com/badges/f2238ea8-0480-4a55-952c-d7c72d839505/public_url" width=512 alt="Microsoft Certified: Azure Data Fundamentals
+">
 
 <br>
 
-<picture>
-  <source srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
 
 
 <!--
