@@ -35,8 +35,6 @@
 
 <img src="https://www.credly.com/badges/f2238ea8-0480-4a55-952c-d7c72d839505/public_url" width=512 alt="Microsoft Certified: Azure Data Fundamentals">
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f2238ea8-0480-4a55-952c-d7c72d839505" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 <br>
 
 
