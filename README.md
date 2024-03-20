@@ -34,7 +34,7 @@
 ## Accomplishments
 
 
-<img src="" width=512 alt="Database engineering Udemy course certificate">
+<img src="" width=512 alt="Certificate">
 
 <br>
 
