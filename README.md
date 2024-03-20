@@ -35,6 +35,8 @@
 
 <img src="https://www.credly.com/badges/f2238ea8-0480-4a55-952c-d7c72d839505/public_url" width=512 alt="Microsoft Certified: Azure Data Fundamentals">
 
+https://drive.google.com/file/d/1ipLHOv3MGbbUUfvH73PFfPA5ss9Vhg_r/view?usp=sharing
+<img src="https://drive.google.com/file/d/1ipLHOv3MGbbUUfvH73PFfPA5ss9Vhg_r/view?usp=sharing" width=512 alt="Coursera Deep Learning Specialisation">
 <br>
 
 
